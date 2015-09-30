@@ -1,0 +1,6 @@
+[project]
+name=reservoirlog_php
+description=
+run_cmd=
+regenerate=true
+type=All
